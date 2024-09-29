@@ -1,0 +1,20 @@
+# Vagrant files
+.vagrant/
+
+# Log files
+*.log
+
+# Virtual machine files
+*.box
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Provisioning files that might contain sensitive information
+*.pem
+*.key
